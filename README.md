@@ -18,7 +18,7 @@ The program consists of several classes: <br /><br />
 - Volunteer: An abstract class representing different types of volunteers (collector or driver). Volunteers have specific roles and methods for handling orders.<br />
 - Order: Describes an order with a unique ID, status, and associated customer and volunteers.<br />
 - BaseAction: An abstract class for different action types. It enables logging of actions and contains methods for performing and representing actions.<br />
-<h2 align="left">Getting Actions</h2>
+<h2 align="left">Actions</h2>
 Actions are core functionalities of the program, allowing users to interact with the system. Some key actions include: <br /><br />
 
 - SimulateStep: Advances the simulation by one unit of time.
