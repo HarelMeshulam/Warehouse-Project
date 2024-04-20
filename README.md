@@ -16,11 +16,11 @@ Upon execution, the program initializes the warehouse based on the provided conf
 <h2 align="left">Classes</h2>
 The program consists of several classes: <br /><br />
 
-- Warehouse: Manages volunteers, customers, and orders. It maintains lists of pending, in-process, and completed orders.<br />
-- Customer: Represents different types of customers, such as soldier or civilian.<br />
-- Volunteer: An abstract class representing different types of volunteers (collector or driver). Volunteers have specific roles and methods for handling orders.<br />
-- Order: Describes an order with a unique ID, status, and associated customer and volunteers.<br />
-- BaseAction: An abstract class for different action types. It enables logging of actions and contains methods for performing and representing actions.<br />
+- Warehouse: Manages volunteers, customers, and orders. It maintains lists of pending, in-process, and completed orders. <br />
+- Customer: Represents different types of customers, such as soldier or civilian. <br />
+- Volunteer: An abstract class representing different types of volunteers (collector or driver). Volunteers have specific roles and methods for handling orders. <br />
+- Order: Describes an order with a unique ID, status, and associated customer and volunteers. <br />
+- BaseAction: An abstract class for different action types. It enables logging of actions and contains methods for performing and representing actions. <br />
 <h2 align="left">Actions</h2>
 Actions are core functionalities of the program, allowing users to interact with the system. Some key actions include: <br /><br />
 
