@@ -2,6 +2,9 @@
 <h2 align="left">Description</h2>
 This project is an assignment aimed at designing an object-oriented system using C++. The objective is to gain implementation experience while utilizing classes, standard data structures, and unique C++ properties such as the "Rule of 5." Additionally, the project involves learning and using makefiles for compiling the source code efficiently. The system simulates a food warehouse management system where volunteers handle orders made by customers. Throughout the development process, careful attention is paid to memory management to avoid memory leaks and ensure the program's efficiency and stability.
 
+<h2 align="left">Platform</h2>
+This project was developed and tested in a Linux environment and is intended to be run on Linux systems. While it may be possible to run the program on other platforms with appropriate setup and configurations, the instructions and provided makefile are tailored for Linux. Ensure compatibility with your operating system before proceeding with execution.
+
 <h2 align="left">Getting Started</h2>
 To run the program, follow these steps:</br>
 Compile the program using the provided makefile: make.</br>
